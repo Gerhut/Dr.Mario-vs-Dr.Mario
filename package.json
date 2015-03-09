@@ -1,0 +1,20 @@
+{
+  "name": "Dr.Mario-vs-Dr.Mario",
+  "version": "0.0.0",
+  "description": "Server of Dr.Mario vs Dr.Mario",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gerhut/Dr.Mario-vs-Dr.Mario"
+  },
+  "author": "George Chung <Gerhut@GMail.com> (http://gerhut.me/)",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/Gerhut/Dr.Mario-vs-Dr.Mario/issues"
+  },
+  "homepage": "https://github.com/Gerhut/Dr.Mario-vs-Dr.Mario",
+  "dependencies": {
+    "jsnes": "*",
+    "socket.io": "1"
+  }
+}
